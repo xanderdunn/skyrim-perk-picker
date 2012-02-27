@@ -1,7 +1,9 @@
 Developed on OSX, but it should compile on Windows, too.  
 
+Find binaries in the Downloads section of Github.
+
 Usage:
-ghci Main.hs AppModel.hs
+ghci Main.hs
 #The following saves the initial perk list to the same directory that the .hs files are being run from
 list
 #Now open perkData.txt in a text editor and edit the right-most zeroes into your preferences from 1-5 or 7 for a must-have perk.
